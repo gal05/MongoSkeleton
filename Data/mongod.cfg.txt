@@ -1,0 +1,1 @@
+logpath=c:\MongoDB\Data\Log\mongod.log
